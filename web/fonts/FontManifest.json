@@ -1,0 +1,12 @@
+
+[
+  {
+    "family": "SurceSansPro",
+    "fonts": [
+      {
+        "asset": "fonts/SourceSansPro-Regular.ttf",
+        "asset": "fonts/SourceSansPro-Bold.ttf"
+      }
+    ]
+  }
+]
